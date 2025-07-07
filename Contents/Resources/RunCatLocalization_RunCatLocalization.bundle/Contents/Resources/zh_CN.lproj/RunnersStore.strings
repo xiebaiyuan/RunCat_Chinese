@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>categoryAnimal</key>
-	<string>动物类跑步者</string>
+	<string>动物类跑者</string>
 	<key>categoryInanimate</key>
-	<string>无生物类跑步者</string>
+	<string>无生物类跑者</string>
 	<key>categoryRecommended</key>
 	<string>推荐项目</string>
 	<key>categorySeasonal</key>
-	<string>季节性跑步者</string>
+	<string>季节性跑者</string>
 	<key>categorySpecial</key>
-	<string>特殊颜色跑步者（支持开发者）</string>
+	<string>特殊颜色跑者（支持开发者）</string>
 	<key>failedToSync</key>
 	<string>与 App Store 同步失败。</string>
 	<key>failedToVerify</key>
@@ -37,7 +37,7 @@
 	<key>restoreTitle</key>
 	<string>根据历史记录恢复</string>
 	<key>runnersStoreTitle</key>
-	<string>跑步者商店</string>
+	<string>跑者商店</string>
 	<key>unknownError</key>
 	<string>发生未知错误。</string>
 	<key>userCancelled</key>

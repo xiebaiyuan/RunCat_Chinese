@@ -2,49 +2,49 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>aboutApp</key>
-    <string>关于 RunCat</string>
-    <key>activityMonitor</key>
-    <string>活动监视器</string>
-    <key>back</key>
-    <string>返回</string>
-    <key>categoryAnimal</key>
-    <string>动物类跑步者</string>
-    <key>categoryDefault</key>
-    <string>默认跑步者</string>
-    <key>categoryInanimate</key>
-    <string>无生物类跑步者</string>
-    <key>categorySeasonal</key>
-    <string>季节性跑步者</string>
-    <key>categorySelfMade</key>
-    <string>自制跑步者</string>
-    <key>categorySpecial</key>
-    <string>特殊颜色跑步者</string>
+	<key>aboutApp</key>
+	<string>关于 RunCat</string>
+	<key>activityMonitor</key>
+	<string>活动监视器</string>
+	<key>back</key>
+	<string>返回</string>
+	<key>categoryAnimal</key>
+	<string>动物类跑者</string>
+	<key>categoryDefault</key>
+	<string>默认跑者</string>
+	<key>categoryInanimate</key>
+	<string>无生物类跑者</string>
+	<key>categorySeasonal</key>
+	<string>季节性跑者</string>
+	<key>categorySelfMade</key>
+	<string>自制跑者</string>
+	<key>categorySpecial</key>
+	<string>特殊颜色跑者</string>
 	<key>contributeToApp</key>
-    <string>为 RunCat 做贡献</string>
-    <key>debugSleep</key>
-    <string>调试睡眠</string>
-    <key>debugWakeUp</key>
-    <string>调试唤醒</string>
-    <key>help</key>
-    <string>帮助</string>
-    <key>helpFAQ</key>
-    <string>常见问题</string>
-    <key>helpHowToRegister</key>
-    <string>如何注册自制跑步者</string>
-    <key>more</key>
-    <string>更多</string>
-    <key>reportAnIssue</key>
-    <string>报告问题</string>
-    <key>runners</key>
-    <string>跑步者</string>
-    <key>selfMade</key>
-    <string>自制</string>
-    <key>settings</key>
-    <string>设置</string>
-    <key>store</key>
-    <string>商店</string>
-    <key>terminateApp</key>
-    <string>退出 RunCat</string>
+	<string>为 RunCat 做贡献</string>
+	<key>debugSleep</key>
+	<string>调试睡眠</string>
+	<key>debugWakeUp</key>
+	<string>调试唤醒</string>
+	<key>help</key>
+	<string>帮助</string>
+	<key>helpFAQ</key>
+	<string>常见问题</string>
+	<key>helpHowToRegister</key>
+	<string>如何注册自制跑者</string>
+	<key>more</key>
+	<string>更多</string>
+	<key>reportAnIssue</key>
+	<string>报告问题</string>
+	<key>runners</key>
+	<string>跑者</string>
+	<key>selfMade</key>
+	<string>自制</string>
+	<key>settings</key>
+	<string>设置</string>
+	<key>store</key>
+	<string>商店</string>
+	<key>terminateApp</key>
+	<string>退出 RunCat</string>
 </dict>
 </plist>
