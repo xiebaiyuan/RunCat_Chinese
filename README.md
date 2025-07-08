@@ -2,19 +2,19 @@
 
 # 🐱 macOS RunCat 中文语言包
 
-> 当前适配 RunCat 版本：12.0.2
+> 当前适配 RunCat 版本: 12.0.3
 
 为 macOS App Store 应用 [RunCat](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12) 提供中文语言支持。通过自动/手动替换应用资源文件实现汉化。
 
 ## 🚀 一键自动安装（命令行方式）
 
-如果你更习惯使用终端，可以通过下面一行命令自动安装中文语言包。该命令会使用 sudo 权限拉取 Git 仓库，并将仓库中缺失的文件添加到 `/Applications/RunCat.app/Contents` 中：
+如果你更习惯使用终端，可以通过下面一行命令自动安装中文语言包。该命令会使用 sudo 权限拉取 Git 仓库，并将仓库中缺失的文件添加到 `/Applications/RunCat.app/Contents` 中: 
 
 ```bash
 sudo bash -c 'tmp_dir=$(mktemp -d) && git clone https://github.com/chu3/RunCat_Chinese.git "$tmp_dir" && rsync -av --ignore-existing "$tmp_dir/Contents/" "/Applications/RunCat.app/Contents/" && rm -rf "$tmp_dir"'
 ```
 
-**注意：**
+**注意: **
 
 -   请确保你拥有 sudo 权限。
 -   该命令依赖 Git 和 rsync 工具，请确保它们已安装在系统中。
@@ -24,7 +24,7 @@ sudo bash -c 'tmp_dir=$(mktemp -d) && git clone https://github.com/chu3/RunCat_C
 1. 下载中文语言包中的 `Contents` 文件夹。
 2. 打开 Finder，右键点击 RunCat 应用程序，选择“显示包内容”。
 3. 将下载的 `Contents` 文件夹与安装目录中的同名文件夹进行 **合并**  
-   **（建议：先拷贝再粘贴，避免直接拖拽导致无法合并）**。
+   **（建议: 先拷贝再粘贴，避免直接拖拽导致无法合并）**。
 4. 重新启动 RunCat 应用程序。
 
 ## 💾 离线安装包

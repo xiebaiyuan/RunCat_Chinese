@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>color</key>
-	<string>颜色：</string>
+	<string>颜色: </string>
 	<key>conflictName</key>
 	<string>此跑者名称已被使用。</string>
 	<key>failedToEncodeImages</key>
@@ -11,23 +11,23 @@
 	<key>failedToSave</key>
 	<string>保存自制跑者失败。</string>
 	<key>formatPrecondition</key>
-	<string>1. 格式：PNG</string>
+	<string>1. 格式: PNG</string>
 	<key>frames</key>
-	<string>帧数：</string>
+	<string>帧数: </string>
 	<key>heightPrecondition</key>
-	<string>2. 高度：36px</string>
+	<string>2. 高度: 36px</string>
 	<key>preconditions</key>
-	<string>前提条件：</string>
+	<string>前提条件: </string>
 	<key>preview</key>
-	<string>预览：</string>
+	<string>预览: </string>
 	<key>register</key>
 	<string>注册</string>
 	<key>registerErrorTitle</key>
 	<string>注册错误</string>
 	<key>registeredRunners</key>
-	<string>已注册的跑者：</string>
+	<string>已注册的跑者: </string>
 	<key>runnerName</key>
-	<string>跑者名称：</string>
+	<string>跑者名称: </string>
 	<key>selfMadeRunnersTitle</key>
 	<string>自制跑者</string>
 	<key>toRegister</key>
@@ -39,6 +39,6 @@
 	<key>violateUpperLimit</key>
 	<string>帧数已达到上限。</string>
 	<key>widthPrecondition</key>
-	<string>3. 宽度：10~100px</string>
+	<string>3. 宽度: 10~100px</string>
 </dict>
 </plist>

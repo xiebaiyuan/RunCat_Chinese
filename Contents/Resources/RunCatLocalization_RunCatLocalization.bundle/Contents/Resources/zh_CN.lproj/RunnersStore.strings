@@ -16,6 +16,11 @@
 	<string>与 App Store 同步失败。</string>
 	<key>failedToVerify</key>
 	<string>交易数据签名无效。</string>
+	<key>noAvailableItems</key>
+	<string>没有可用项目</string>
+	<key>noAvailableItemsSuggestion</key>
+	<string>使用跑者商店需要网络连接。
+请检查您的网络连接。</string>
 	<key>pending</key>
 	<string>购买正在处理中。</string>
 	<key>productNotFound</key>
@@ -32,6 +37,8 @@
 	<string>不允许进行购买。</string>
 	<key>purchaseNotAllowedSuggestion</key>
 	<string>请检查您的 Apple ID 支付设置。</string>
+	<key>reload</key>
+	<string>重新加载</string>
 	<key>restore</key>
 	<string>恢复</string>
 	<key>restoreTitle</key>
