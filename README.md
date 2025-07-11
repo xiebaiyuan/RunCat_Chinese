@@ -2,6 +2,10 @@
 
 # 🐱 macOS RunCat 中文语言包
 
+> **📢 项目归档通知**
+> 最新版已支持官方中文，在此感谢各位的支持～
+> 历史版本请前往 [Releases](https://github.com/chu3/RunCat_Chinese/releases) 下载
+
 > 当前适配 RunCat 版本: 12.0.3
 
 为 macOS App Store 应用 [RunCat](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12) 提供中文语言支持。通过自动/手动替换应用资源文件实现汉化。
@@ -37,11 +41,3 @@ sudo bash -c 'tmp_dir=$(mktemp -d) && git clone https://github.com/chu3/RunCat_C
 ## 🎛️ 版本选择
 
 不同版本界面差异较大，可以根据个人喜好在 [Releases](https://github.com/chu3/RunCat_Chinese/releases)页面中选择合适的版本下载安装。
-
-## 📦 更新维护
-
-建议 Star 本项目以获取更新通知，后续更新只需重新执行安装命令即可。
-
-## 🤝 贡献指南
-
-欢迎通过 Issue 反馈问题或提交 Pull Request 参与汉化维护。
